@@ -22,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/abhishekke45/leet-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhishekke45/leet-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhishekke45/leet-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Greedy
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhishekke45/leet-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhishekke45/leet-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
