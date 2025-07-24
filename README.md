@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekke45/leet-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/abhishekke45/leet-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/abhishekke45/leet-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhishekke45/leet-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/abhishekke45/leet-/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekke45/leet-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhishekke45/leet-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhishekke45/leet-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhishekke45/leet-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhishekke45/leet-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhishekke45/leet-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishekke45/leet-/tree/master/1818-maximum-score-from-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhishekke45/leet-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
