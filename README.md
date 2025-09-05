@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/abhishekke45/leet-/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/abhishekke45/leet-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekke45/leet-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhishekke45/leet-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhishekke45/leet-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/abhishekke45/leet-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekke45/leet-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhishekke45/leet-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhishekke45/leet-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhishekke45/leet-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/abhishekke45/leet-/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekke45/leet-/tree/master/1628-count-submatrices-with-all-ones) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhishekke45/leet-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
