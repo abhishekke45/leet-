@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekke45/leet-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/abhishekke45/leet-/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/abhishekke45/leet-/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekke45/leet-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekke45/leet-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/abhishekke45/leet-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/abhishekke45/leet-/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhishekke45/leet-/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 ## Simulation
 |  |
 | ------- |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/abhishekke45/leet-/tree/master/3462-vowels-game-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
