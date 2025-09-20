@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekke45/leet-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/abhishekke45/leet-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/abhishekke45/leet-/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/abhishekke45/leet-/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhishekke45/leet-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/abhishekke45/leet-/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhishekke45/leet-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3827-implement-router](https://github.com/abhishekke45/leet-/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekke45/leet-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/abhishekke45/leet-/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/abhishekke45/leet-/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhishekke45/leet-/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/abhishekke45/leet-/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/abhishekke45/leet-/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhishekke45/leet-/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/abhishekke45/leet-/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
 | ------- |
@@ -269,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/abhishekke45/leet-/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
