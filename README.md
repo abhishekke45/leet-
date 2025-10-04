@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekke45/leet-/tree/master/0011-container-with-most-water) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekke45/leet-/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/abhishekke45/leet-/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishekke45/leet-/tree/master/0594-longest-harmonious-subsequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekke45/leet-/tree/master/0011-container-with-most-water) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/abhishekke45/leet-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekke45/leet-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishekke45/leet-/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/abhishekke45/leet-/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekke45/leet-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishekke45/leet-/tree/master/1818-maximum-score-from-removing-substrings) |
