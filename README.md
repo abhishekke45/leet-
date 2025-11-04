@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishekke45/leet-/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhishekke45/leet-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/abhishekke45/leet-/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abhishekke45/leet-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/abhishekke45/leet-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhishekke45/leet-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishekke45/leet-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/abhishekke45/leet-/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/abhishekke45/leet-/tree/master/2689-rearranging-fruits) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekke45/leet-/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abhishekke45/leet-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekke45/leet-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/abhishekke45/leet-/tree/master/3797-design-spreadsheet) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishekke45/leet-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/abhishekke45/leet-/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/abhishekke45/leet-/tree/master/2479-meeting-rooms-iii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abhishekke45/leet-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/abhishekke45/leet-/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishekke45/leet-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhishekke45/leet-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abhishekke45/leet-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishekke45/leet-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
 |  |
