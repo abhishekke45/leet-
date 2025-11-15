@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhishekke45/leet-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3396-valid-word](https://github.com/abhishekke45/leet-/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/abhishekke45/leet-/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekke45/leet-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3797-design-spreadsheet](https://github.com/abhishekke45/leet-/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekke45/leet-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhishekke45/leet-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhishekke45/leet-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekke45/leet-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/abhishekke45/leet-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/abhishekke45/leet-/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishekke45/leet-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhishekke45/leet-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekke45/leet-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/abhishekke45/leet-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishekke45/leet-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
