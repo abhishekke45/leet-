@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishekke45/leet-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishekke45/leet-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/abhishekke45/leet-/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/abhishekke45/leet-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/abhishekke45/leet-/tree/master/1642-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/abhishekke45/leet-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhishekke45/leet-/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/abhishekke45/leet-/tree/master/0474-ones-and-zeroes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhishekke45/leet-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhishekke45/leet-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/abhishekke45/leet-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishekke45/leet-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/abhishekke45/leet-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/abhishekke45/leet-/tree/master/2140-longest-subsequence-repeated-k-times) |
