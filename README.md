@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/abhishekke45/leet-/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/abhishekke45/leet-/tree/master/0900-reordered-power-of-2) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekke45/leet-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishekke45/leet-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishekke45/leet-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/abhishekke45/leet-/tree/master/1448-maximum-69-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/abhishekke45/leet-/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/abhishekke45/leet-/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/abhishekke45/leet-/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/abhishekke45/leet-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhishekke45/leet-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhishekke45/leet-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhishekke45/leet-/tree/master/1995-finding-pairs-with-a-certain-sum) |
