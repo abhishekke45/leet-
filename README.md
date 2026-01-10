@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/abhishekke45/leet-/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekke45/leet-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhishekke45/leet-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/abhishekke45/leet-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhishekke45/leet-/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/abhishekke45/leet-/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekke45/leet-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekke45/leet-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhishekke45/leet-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekke45/leet-/tree/master/1262-greatest-sum-divisible-by-three) |
