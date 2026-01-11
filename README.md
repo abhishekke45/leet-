@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekke45/leet-/tree/master/0011-container-with-most-water) |
+| [0085-maximal-rectangle](https://github.com/abhishekke45/leet-/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekke45/leet-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekke45/leet-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/abhishekke45/leet-/tree/master/0474-ones-and-zeroes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekke45/leet-/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/abhishekke45/leet-/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekke45/leet-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekke45/leet-/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekke45/leet-/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekke45/leet-/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishekke45/leet-/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/abhishekke45/leet-/tree/master/2211-count-collisions-on-a-road) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekke45/leet-/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/abhishekke45/leet-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekke45/leet-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/abhishekke45/leet-/tree/master/0498-diagonal-traverse) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/abhishekke45/leet-/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhishekke45/leet-/tree/master/1628-count-submatrices-with-all-ones) |
 ## Brainteaser
 |  |
