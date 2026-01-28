@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/abhishekke45/leet-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/abhishekke45/leet-/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/abhishekke45/leet-/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/abhishekke45/leet-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhishekke45/leet-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhishekke45/leet-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishekke45/leet-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abhishekke45/leet-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhishekke45/leet-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekke45/leet-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/abhishekke45/leet-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhishekke45/leet-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/abhishekke45/leet-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/abhishekke45/leet-/tree/master/1975-maximum-matrix-sum) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhishekke45/leet-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishekke45/leet-/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/abhishekke45/leet-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhishekke45/leet-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/abhishekke45/leet-/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
