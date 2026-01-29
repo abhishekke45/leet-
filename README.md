@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/abhishekke45/leet-/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2689-rearranging-fruits](https://github.com/abhishekke45/leet-/tree/master/2689-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhishekke45/leet-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhishekke45/leet-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekke45/leet-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekke45/leet-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhishekke45/leet-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abhishekke45/leet-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/abhishekke45/leet-/tree/master/2211-count-collisions-on-a-road) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/abhishekke45/leet-/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhishekke45/leet-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/abhishekke45/leet-/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/abhishekke45/leet-/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekke45/leet-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -525,9 +527,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhishekke45/leet-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishekke45/leet-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/abhishekke45/leet-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishekke45/leet-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
