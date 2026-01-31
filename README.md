@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/abhishekke45/leet-/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/abhishekke45/leet-/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishekke45/leet-/tree/master/0594-longest-harmonious-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekke45/leet-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekke45/leet-/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/abhishekke45/leet-/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekke45/leet-/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekke45/leet-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/abhishekke45/leet-/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhishekke45/leet-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhishekke45/leet-/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
