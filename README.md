@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhishekke45/leet-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhishekke45/leet-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhishekke45/leet-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishekke45/leet-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekke45/leet-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekke45/leet-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhishekke45/leet-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/abhishekke45/leet-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekke45/leet-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhishekke45/leet-/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishekke45/leet-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhishekke45/leet-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekke45/leet-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/abhishekke45/leet-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekke45/leet-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/abhishekke45/leet-/tree/master/2689-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/abhishekke45/leet-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishekke45/leet-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3433-count-mentions-per-user](https://github.com/abhishekke45/leet-/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekke45/leet-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/abhishekke45/leet-/tree/master/3531-count-covered-buildings) |
