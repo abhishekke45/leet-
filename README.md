@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abhishekke45/leet-/tree/master/0011-container-with-most-water) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekke45/leet-/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekke45/leet-/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhishekke45/leet-/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/abhishekke45/leet-/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishekke45/leet-/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishekke45/leet-/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekke45/leet-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishekke45/leet-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhishekke45/leet-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhishekke45/leet-/tree/master/1382-balance-a-binary-search-tree) |
 | [2092-find-all-people-with-secret](https://github.com/abhishekke45/leet-/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhishekke45/leet-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/abhishekke45/leet-/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhishekke45/leet-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekke45/leet-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishekke45/leet-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhishekke45/leet-/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhishekke45/leet-/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/abhishekke45/leet-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/abhishekke45/leet-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhishekke45/leet-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/abhishekke45/leet-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/abhishekke45/leet-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhishekke45/leet-/tree/master/1382-balance-a-binary-search-tree) |
 ## Line Sweep
 |  |
 | ------- |
@@ -563,4 +567,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhishekke45/leet-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhishekke45/leet-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/abhishekke45/leet-/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/abhishekke45/leet-/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/abhishekke45/leet-/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
