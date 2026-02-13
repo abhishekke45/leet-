@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekke45/leet-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/abhishekke45/leet-/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/abhishekke45/leet-/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhishekke45/leet-/tree/master/3714-longest-balanced-substring-ii) |
 | [3797-design-spreadsheet](https://github.com/abhishekke45/leet-/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/abhishekke45/leet-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/abhishekke45/leet-/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/abhishekke45/leet-/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhishekke45/leet-/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhishekke45/leet-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekke45/leet-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/abhishekke45/leet-/tree/master/3797-design-spreadsheet) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishekke45/leet-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/abhishekke45/leet-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhishekke45/leet-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/abhishekke45/leet-/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhishekke45/leet-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/abhishekke45/leet-/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/abhishekke45/leet-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
