@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/abhishekke45/leet-/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/abhishekke45/leet-/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/abhishekke45/leet-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/abhishekke45/leet-/tree/master/0799-champagne-tower) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekke45/leet-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/abhishekke45/leet-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhishekke45/leet-/tree/master/1262-greatest-sum-divisible-by-three) |
