@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhishekke45/leet-/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/abhishekke45/leet-/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/abhishekke45/leet-/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekke45/leet-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhishekke45/leet-/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/abhishekke45/leet-/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishekke45/leet-/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhishekke45/leet-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
