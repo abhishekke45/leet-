@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhishekke45/leet-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3396-valid-word](https://github.com/abhishekke45/leet-/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/abhishekke45/leet-/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/abhishekke45/leet-/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/abhishekke45/leet-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/abhishekke45/leet-/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/abhishekke45/leet-/tree/master/3713-longest-balanced-substring-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishekke45/leet-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2573-find-the-string-with-lcp](https://github.com/abhishekke45/leet-/tree/master/2573-find-the-string-with-lcp) |
 | [2689-rearranging-fruits](https://github.com/abhishekke45/leet-/tree/master/2689-rearranging-fruits) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/abhishekke45/leet-/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishekke45/leet-/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishekke45/leet-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Memoization
@@ -650,4 +652,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/abhishekke45/leet-/tree/master/2573-find-the-string-with-lcp) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/abhishekke45/leet-/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
