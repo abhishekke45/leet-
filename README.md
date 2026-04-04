@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhishekke45/leet-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhishekke45/leet-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/abhishekke45/leet-/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/abhishekke45/leet-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/abhishekke45/leet-/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/abhishekke45/leet-/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/abhishekke45/leet-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhishekke45/leet-/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/abhishekke45/leet-/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/abhishekke45/leet-/tree/master/1642-water-bottles) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/abhishekke45/leet-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/abhishekke45/leet-/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhishekke45/leet-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/abhishekke45/leet-/tree/master/2288-count-operations-to-obtain-zero) |
