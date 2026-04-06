@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishekke45/leet-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/abhishekke45/leet-/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/abhishekke45/leet-/tree/master/0794-swim-in-rising-water) |
+| [0874-walking-robot-simulation](https://github.com/abhishekke45/leet-/tree/master/0874-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/abhishekke45/leet-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/abhishekke45/leet-/tree/master/0940-fruit-into-baskets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhishekke45/leet-/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishekke45/leet-/tree/master/0594-longest-harmonious-subsequence) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/abhishekke45/leet-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/abhishekke45/leet-/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/abhishekke45/leet-/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/abhishekke45/leet-/tree/master/0940-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/abhishekke45/leet-/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhishekke45/leet-/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/abhishekke45/leet-/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/abhishekke45/leet-/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/abhishekke45/leet-/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/abhishekke45/leet-/tree/master/1642-water-bottles) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abhishekke45/leet-/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/abhishekke45/leet-/tree/master/2211-count-collisions-on-a-road) |
