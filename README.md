@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/abhishekke45/leet-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhishekke45/leet-/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/abhishekke45/leet-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/abhishekke45/leet-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhishekke45/leet-/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhishekke45/leet-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhishekke45/leet-/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/abhishekke45/leet-/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/abhishekke45/leet-/tree/master/3433-count-mentions-per-user) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/abhishekke45/leet-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/abhishekke45/leet-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/abhishekke45/leet-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Linked List
 |  |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/abhishekke45/leet-/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/abhishekke45/leet-/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhishekke45/leet-/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/abhishekke45/leet-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhishekke45/leet-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search Tree
 |  |
