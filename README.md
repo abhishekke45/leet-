@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhishekke45/leet-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhishekke45/leet-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekke45/leet-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3225-maximum-score-from-grid-operations](https://github.com/abhishekke45/leet-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/abhishekke45/leet-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhishekke45/leet-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhishekke45/leet-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/abhishekke45/leet-/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/abhishekke45/leet-/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhishekke45/leet-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/abhishekke45/leet-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhishekke45/leet-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhishekke45/leet-/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhishekke45/leet-/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhishekke45/leet-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/abhishekke45/leet-/tree/master/1895-largest-magic-square) |
 | [2906-construct-product-matrix](https://github.com/abhishekke45/leet-/tree/master/2906-construct-product-matrix) |
+| [3225-maximum-score-from-grid-operations](https://github.com/abhishekke45/leet-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/abhishekke45/leet-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/abhishekke45/leet-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhishekke45/leet-/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/abhishekke45/leet-/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/abhishekke45/leet-/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhishekke45/leet-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3225-maximum-score-from-grid-operations](https://github.com/abhishekke45/leet-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhishekke45/leet-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhishekke45/leet-/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishekke45/leet-/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
